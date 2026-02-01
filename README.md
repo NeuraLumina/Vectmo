@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  🌍 &nbsp; Lusaka, Zambia  
+  🌍 &nbsp; Kitwe, Zambia  
   🛠️ &nbsp; C++ • bigrams • histogram embeddings • cosine similarity  
   🧠 &nbsp; Lightweight next-token predictors • style imitation • vocabulary-aware text  
   ⚡ &nbsp; Currently: making tiny models that still feel surprisingly alive
@@ -26,7 +26,7 @@
 
 ### 🛠️ Flagship toy project
 
-**[Vectmo](https://github.com/NeuraLumina/vectmo)**  
+**[Vectmo](https://github.com/NeuraLumina/Vectmo)**  
 A minimalist C++ character-level language model that:
 - learns bigram statistics from raw text  
 - generates continuations with basic repetition avoidance  
